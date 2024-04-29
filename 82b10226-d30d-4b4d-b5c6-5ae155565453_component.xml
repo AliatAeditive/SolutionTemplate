@@ -38,8 +38,8 @@
         <chunk name="Attributes">
           <items count="1">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>196</X>
-              <Y>3738</Y>
+              <X>208</X>
+              <Y>1907</Y>
               <W>97</W>
               <H>22</H>
             </item>
